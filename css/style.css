@@ -1,0 +1,282 @@
+/* CSS Document */
+body{
+	margin: 0;
+}
+
+#wrap{
+	height: 1600px;
+	margin: 0 ;
+
+	font-family: "나눔고딕 ExtraBold", "맑은 고딕 Semilight", "맑은 고딕", "Adobe 고딕 Std B";
+
+}
+
+
+
+
+#header{
+	background-color: #ff6300;
+	height: 100px;
+	display: grid;
+	vertical-align: center;
+	text-align: center.;
+  margin: 0;
+
+}
+
+.i1{
+	position: relative;
+	left: 59px;
+	top: 9px;
+
+}
+
+
+.t1{
+
+	font-size: 60px;
+	color: rgba(255,255,255,1.00);
+	position: absolute;
+	left: 790px;
+	top: 11px;
+
+}
+
+
+#nav{
+	background-color: #ff7e43;
+	width: 200px;
+	height: 1600px;
+	float: left;
+}
+
+.menu{
+
+	font-size: 40px;
+	color: #FFFFFF;
+
+}
+
+div>ul>li{
+	display: block;
+	list-style: none;
+	line-height: 80px;
+}
+
+.menu a:link{
+
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.menu a:visited{
+
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.menu a:hover{
+	border-bottom: 4px solid #FFFFFF;
+	color: #FFFFFF;
+
+}
+
+
+
+
+#main{
+	background-color:#FFFFFF;
+	height: 1600px;
+	float: left;
+
+}
+
+.t2{
+	font-size: 40px;
+	color: #ff7e43;
+	position:absolute;
+	left: 900px;
+	top: 130px;
+}
+
+.t3{
+	font-size: 40px;
+	color: #ff7e43;
+	position:absolute;
+	left: 1000px;
+	top: 140px;
+}
+
+.t31{
+	font-size: 40px;
+	color: #ff7e43;
+	position:absolute;
+	left: 985px;
+	top: 140px;
+}
+
+.t4{
+	font-size: 40px;
+	color: #ff7e43;
+	position: absolute;
+	left: 220px;
+	top:180px;
+}
+
+.t5{
+	font-size: 40px;
+	color: #ff7e43;
+	position:absolute;
+	left: 1000px;
+	top: 140px;
+}
+
+.t6{
+	font-size: 40px;
+	color: #ff7e43;
+	position:absolute;
+	left: 1015px;
+	top: 140px;
+}
+
+div iframe{
+
+	width: 480px;
+	height: 270px;
+}
+
+
+.mv1{
+	position: absolute;
+	left: 380px;
+	top: 220px;
+}
+
+.mv2{
+
+	position: absolute;
+	left: 1250px;
+	top: 220px;
+}
+
+.mv3{
+	position: absolute;
+	left: 380px;
+	top: 510px;
+}
+
+.mv4{
+	position: absolute;
+	left: 1250px;
+	top: 510px;
+}
+
+.mv5{
+	position: absolute;
+	left: 380px;
+	top:800px;
+}
+
+.mv6{
+	position: absolute;
+	left: 1250px;
+	top: 800px;
+}
+
+.mv7{
+	position: absolute;
+	left: 380px;
+	top: 1090px;
+}
+
+.mv8{
+	position: absolute;
+	left: 1250px;
+	top: 1090px;
+}
+
+.mv9{
+	position: absolute;
+	left: 380px;
+	top: 1380px;
+}
+
+.mv10{
+	position: absolute;
+	left: 1250px;
+	top: 1380px;
+}
+
+.tim{
+	position: absolute;
+	left: 935px;
+	top: 240px;
+}
+
+.tiu{
+	position: absolute;
+	left: 935px;
+	top: 530px;
+}
+
+.tis{
+	position: absolute;
+	left: 935px;
+	top: 820px;
+}
+
+.tii{
+	position: absolute;
+	left: 935px;
+	top: 1100px;
+}
+
+.tic{
+	position: absolute;
+	left: 935px;
+	top: 1400px;
+}
+
+
+#footer{
+
+	background-color: #ff6300;
+	width: 1903px;
+	height: 100px;
+	clear: both;
+
+}
+
+.con{
+
+	font-size: 25px;
+	color: #FFFFFF;
+
+}
+
+.i2{
+	position: relative;
+	left: 56px;
+	top: 14px;
+}
+
+.yyj-mail-alt{
+
+	position: absolute;
+	left:200px;
+	top:1715px;
+}
+
+.yyj-mobile{
+	position: absolute;
+	left:600px;
+	top:1715px;
+}
+
+.yyj-facebook{
+
+	position: absolute;
+	left:195px;
+	top:1760px;
+
+}
